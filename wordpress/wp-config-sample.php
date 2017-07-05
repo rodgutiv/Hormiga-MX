@@ -20,10 +20,10 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'database_name_here');
+define('DB_NAME', 'hormigamx');
 
 /** MySQL database username */
-define('DB_USER', 'lanase');
+define('DB_USER', 'postgres');
 
 /** MySQL database password */
 define('DB_PASSWORD', '');
